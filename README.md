@@ -1,1 +1,1 @@
-Contains Java Code Snippets of different programs.
+Contains Java Code Snippets .
