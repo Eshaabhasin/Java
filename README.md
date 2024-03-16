@@ -1,1 +1,1 @@
-This repository Contains Java Code Snippets .
+This repository Contains Java Programs.
